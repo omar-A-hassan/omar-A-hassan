@@ -16,6 +16,7 @@ Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
 </p>
 
 ## 🛠️ Languages and Tools
+<div align="left" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
@@ -26,7 +27,15 @@ Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<!-- Assembly Languages -->
+<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/MIPS-Assembly-blue?style=for-the-badge&logo=microchip&logoColor=white" alt="MIPS Assembly" height="40"/>
+</a>
+<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/AVR-ATmega32A-red?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR Assembly" height="40"/>
+</a>
 </p>
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
