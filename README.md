@@ -12,7 +12,7 @@ Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
 
 ## 📄 CV
 <p align="left">
-<a href="https://drive.google.com/file/d/1ycUAV4mQ0Vb4zt_NgeDWBEH5Js4rJONh/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/CV-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" height="30" /></a>
+<a href="https://drive.google.com/file/d/1VDfD85ujaeR9WwGWUD7KrKh_E36DqTQP/view?usp=drive_link" target="blank"><img align="center" src="https://img.shields.io/badge/CV-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" height="30" /></a>
 </p>
 
 ## 🛠️ Languages and Tools
