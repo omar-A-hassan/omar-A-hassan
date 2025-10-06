@@ -1,7 +1,4 @@
-# Hi there! 👋 I'm Omar Hassan
-As a driven Biomedical Engineering student, I apply advanced computational methods to real-world challenges, with a strong foundation in AI and machine learning. I develop impactful solutions across domains including data science, molecular modeling, and geospatial AI. My interdisciplinary curiosity fuels the use of cutting-edge tools for research and development. I am dedicated to open-source collaboration and advancing innovation in biomedical technologies.
 
-## 💼 Work
 Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
 
 ## 🔗 Connect with me
