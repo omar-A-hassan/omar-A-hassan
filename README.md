@@ -1,3 +1,4 @@
+# 🌐 [Visit My Personal Website](https://omar-a-hassan.github.io/omar-a-hassan/)
 
 Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
 
