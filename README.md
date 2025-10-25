@@ -1,56 +1,35 @@
+# Omar Hassan (@omar-a-hassan)
 
-Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML ) & a dash of NLP
+Projects where ( Biology ) ∩ ( AI & ML ), a dash of NLP & LLMs
 
-## 🔗 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-hassan-a0b356220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omar-hassan-a0b356220" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o--h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o--h" height="30" width="40" /></a>
-</p>
+## Selected Projects
 
-## 📄 CV
-<p align="left">
-<a href="https://drive.google.com/file/d/1VDfD85ujaeR9WwGWUD7KrKh_E36DqTQP/view?usp=drive_link" target="blank"><img align="center" src="https://img.shields.io/badge/CV-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" height="30" /></a>
-</p>
+1. **Arabic NLP Benchmarks & Evaluation**
 
-## 🛠️ Languages and Tools
-<div align="left" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 10px 0;">
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<!-- Assembly Languages -->
-<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/MIPS-Assembly-blue?style=for-the-badge&logo=microchip&logoColor=white" alt="MIPS Assembly" height="40"/>
-</a>
-<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/AVR-ATmega32A-red?style=for-the-badge&logo=microchip&logoColor=white" alt="AVR Assembly" height="40"/>
-</a>
-</p>
-</div>
+[Benchmark-Whisper](https://github.com/omar-A-hassan/Benchmark-Whisper)
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-a-hassan&show_icons=true&theme=dracula" alt="omar-a-hassan" />
-</div>
+> Expanded upon Pico-voice ASR benchmark to support benchmarking of OpenAI's Whisper in transcription of Egyptian ARZ speech into ARZ and english text.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-a-hassan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="omar-a-hassan" />
-</div>
+[Benchmark-Nllb200](https://github.com/omar-A-hassan/lm-evaluation-harness)
 
-## 📈 Activity Graph
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-a-hassan&theme=dracula" alt="omar-a-hassan" />
-  </a>
-</div>
+> Expanded lm-evaluation-harness to support machine translation of ARZ to english and vice versa with a new ARZ corpus dataset from hugging face and Meta's Nllb200
 
-## 🏆 GitHub bling
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omar-a-hassan&theme=alduin" alt="omar-a-hassan" />
-</div>
+2. **Geospaital AI Esri North Africa**
+
+[Presto-GeoAI](https://github.com/omar-A-hassan/Presto-for-Crop-classification)
+
+> As part of my GIS intership at Esri, A fine tuned Presto (GeoAI foundational model) on the task of classifying 3 crop types across Africa and also as part of a GeoAI competition on Zindi where it achieved leaderboard position 37, The model's outputs integrate seamlessly into ArcGIs and can be viewed as a feature layer. 
+3. **Explainable AI and Adversarial Attacks**
+
+[XAI, Adversarial attacks and model hardening on CNNs tutorial](https://github.com/omar-A-hassan/Adversarial-attacks-and-XAI-on-CNNS)
+
+> A 4 step workflow outlining how to fine-tune ResNet-34/MobileNetV2 on Caltech-101, generate FGSM adversaries using torchattacks, interpret with Grad-CAM & saliency, and evaluate defenses (adversarial training, input transforms).
+
+
+4. **Robotics & Voice Control**
+
+[SHATO — Voice-Controlled Robotic Assistant](https://github.com/omar-A-hassan/Project-Shato?tab=readme-ov-file#shato---voice-controlled-robotic-assistant)
+
+> A production-grade microservices system that turns speech into schema-validated robot commands—Whisper STT → Fine tuned Gemma3-270M intent extraction → Pydantic validation (self-correction) → Parler TTS—built with FastAPI and Docker, with zero malformed commands reaching hardware.
+
+You're probably wondering where's the Bio AI projects, don't worry they're a secret for now ;)
