@@ -1,5 +1,5 @@
 
-Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML )
+Currently working on projects where ( BME & Biotech ) ∩ ( AI & ML ) & a dash of NLP
 
 ## 🔗 Connect with me
 <p align="left">
