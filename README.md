@@ -12,14 +12,24 @@ Projects where ( Biology ) ∩ ( AI & ML ), a dash of NLP & LLMs
 
 [Benchmark-Nllb200](https://github.com/omar-A-hassan/lm-evaluation-harness)
 
-> Expanded lm-evaluation-harness to support machine translation of ARZ to english and vice versa with a new ARZ corpus dataset from hugging face and Meta's Nllb200
+> Expanded lm-evaluation-harness to support machine translation of ARZ to english and vice versa with a new ARZ corpus dataset from hugging face and Meta's Nllb200.
 
-2. **Geospaital AI Esri North Africa**
+2. **LLM Hallucination Detection & Mitigation**
+
+  [ACE-Hallucinations](https://github.com/omar-A-hassan/ACE-Hallucinations)
+
+  > Competition submission for Russian hallucination detection (codeforces) using Agentic Context Engineering
+  (ACE)—trained Gemma-3-270M (Generator) with Gemini Flash 2.5 (Reflector/Curator) to learn 83
+  anti-hallucination strategies from 380 SberQuAD-derived examples, achieving 0% hallucination
+  rate with conservative refusal behavior deployed via llama.cpp + GGUF for GPU inference for the competition.
+
+3. **Geospaital AI Esri North Africa**
 
 [Presto-GeoAI](https://github.com/omar-A-hassan/Presto-for-Crop-classification)
 
-> As part of my GIS intership at Esri, A fine tuned Presto (GeoAI foundational model) on the task of classifying 3 crop types across Africa and also as part of a GeoAI competition on Zindi where it achieved leaderboard position 37, The model's outputs integrate seamlessly into ArcGIs and can be viewed as a feature layer. 
-3. **Explainable AI and Adversarial Attacks**
+> As part of my GIS intership at Esri, A fine tuned Presto (GeoAI foundational model) on the task of classifying 3 crop types across Africa and also as part of a GeoAI competition on Zindi where it achieved leaderboard position 37, The model's outputs integrate seamlessly into ArcGIs and can be viewed as a feature layer.
+
+4. **Explainable AI and Adversarial Attacks**
 
 [XAI, Adversarial attacks and model hardening on CNNs tutorial](https://github.com/omar-A-hassan/Adversarial-attacks-and-XAI-on-CNNS)
 
