@@ -42,4 +42,15 @@ Projects where ( Biology ) ∩ ( AI & ML ), a dash of NLP & LLMs
 
 > A production-grade microservices system that turns speech into schema-validated robot commands—Whisper STT → Fine tuned Gemma3-270M intent extraction → Pydantic validation (self-correction) → Parler TTS—built with FastAPI and Docker, with zero malformed commands reaching hardware.
 
-You're probably wondering where's the Bio AI projects, don't worry they're a secret for now ;)
+You're probably wondering where's the Bio AI projects, here's one ;)
+
+5. **Parkinson's Disease Voice Detection**
+
+[Parkinsons](https://github.com/omar-A-hassan/Parkinsons)
+
+> Production-grade ML pipeline for detecting Parkinson's Disease from voice recordings using Wav2Vec2
+  foundation model features—implements dual approach: fine-tuned neural classifier (Wav2Vec2-base-960h → pooling
+  → classification head with dropout) vs Random Forest on frozen embeddings, trained on 81-sample balanced
+  dataset (HC/PD) with stratified split, comprehensive test suite, CI/CD (GitHub Actions), and Makefile
+  workflow—engineered for small medical datasets with configurable YAML-driven training, W&B logging, and
+  device-agnostic execution (MPS/CUDA/CPU).
