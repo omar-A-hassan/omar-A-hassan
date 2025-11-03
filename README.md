@@ -18,9 +18,9 @@ Projects where ( Biology ) ∩ ( AI & ML ), a dash of NLP & LLMs
 
   [ACE-Hallucinations](https://github.com/omar-A-hassan/ACE-Hallucinations)
 
-  > Competition submission for Russian hallucination detection (codeforces) using Agentic Context Engineering
+  > Competition solution for Russian hallucination detection (codeforces) using Agentic Context Engineering
   (ACE)—trained Gemma-3-270M (Generator) with Gemini Flash 2.5 (Reflector/Curator) to learn 83
-  anti-hallucination strategies from 380 SberQuAD-derived examples, achieving 0% hallucination
+  anti-hallucination strategies from 380 SberQuAD-derived examples that were transformed using Gemini Flash 2.5, achieving 0% hallucination
   rate with conservative refusal behavior deployed via llama.cpp + GGUF for GPU inference for the competition.
 
 3. **Geospaital AI Esri North Africa**
