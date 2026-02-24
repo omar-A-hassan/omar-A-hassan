@@ -3,12 +3,16 @@
 Projects where ( Biology ) ∩ ( AI & ML ), a dash of NLP & LLMs
 
 ## Selected Projects
-1. **Agents for Computational Biology**
+1. **Agents for Science & Biology**
 
 
 [Simple Protein Agent](https://github.com/omar-A-hassan/Simple-protein-agent)
 
 > From Text to 3D Structure. An intelligent agent powered by Gemini that transforms natural language descriptions of proteins into ready-to-use 3D structures using Apple's SimpleFold. It reasons through biological requirements to generate accurate protein models on demand.
+
+[MedSci Agent](https://github.com/omar-A-hassan/medsci-agent)
+
+> Your MedGemma powered research agent, try throwing at it any research, literature review, drug discorvery or omics task and watch it work.
 
 
 2. **Arabic NLP Benchmarks & Evaluation**
